@@ -65,7 +65,7 @@ conda create -n scidiff python=3.10
 conda activate scidiff
 
 # Clone the repository
-git clone https://github.com/manarai/scIDiff.git
+git clone https://github.com/manarai/scIDiff-VectorField.git
 cd scIDiff
 
 # Install dependencies
