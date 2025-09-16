@@ -1,4 +1,4 @@
-# 🧬 scIDiff: Single-cell Inverse Diffusion
+# 🧬 scIDiff-VectorField: Single-cell Inverse Diffusion
 
 **scIDiff** is a deep generative framework for modeling, denoising, and inverse-designing single-cell gene expression profiles using **score-based diffusion models**.
 
@@ -66,7 +66,7 @@ conda activate scidiff
 
 # Clone the repository
 git clone https://github.com/manarai/scIDiff-VectorField.git
-cd scIDiff
+cd scIDiff-VectorField
 
 # Install dependencies
 pip install -r requirements.txt
@@ -413,8 +413,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone and install in development mode
-git clone https://github.com/manarai/scIDiff.git
-cd scIDiff
+git clone https://github.com/manarai/scIDiff-VectorField.git
+cd scIDiff-VectorField
 pip install -e ".[dev]"
 
 # Install pre-commit hooks
